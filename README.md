@@ -6,7 +6,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MTxSouza&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
-<img align="center" alt="MT-Python" height="30" width="110" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-<img align="center" alt="MT-R" height="30" width="60" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
-<img align="center" alt="MT-R" height="30" width="100" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>

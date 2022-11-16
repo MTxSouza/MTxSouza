@@ -1,3 +1,7 @@
+## **About me**
+I'm a computer vision developer in begin of carieer, i have experience with Python since 2020 and work with it since 2022 as a intern at BRAIN (Brazilian Artificial Inteligence Nucleus). Here, i share with all some of my personal projects i develop in my free time.
+
+---
 <div align="center">
   <a href="https://github.com/MTxSouza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MTxSouza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -23,7 +27,3 @@
     <a href="https://www.instagram.com/_math3usx_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/matheus-souza-325159209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
-
----
-## **About me**
-I'm a computer vision developer in begin of carieer, i have experience with Python since 2020 and work with it since 2022 as a intern at BRAIN (Brazilian Artificial Inteligence Nucleus). Here, i share with all some of my personal projects i develop in my free time.

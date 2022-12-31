@@ -1,5 +1,5 @@
 ## **About me**
-I'm a data scientist in begin of career, i have experience with Python since 2020 and work with it since 2022 as a intern in a Research Nucleo called BRAIN (Brazilian Artificial Inteligence Nucleus) at University Facens. Here, i share some of my knowledge showing some of my personal projects.
+I'm a data scientist in begin of career, i have experience with Python since 2020 and work with it since 2022 as a intern in a Research Center called BRAIN (Brazilian Artificial Inteligence Nucleus) at Facens University.
 
 ---
 <div align="center">

@@ -2,11 +2,6 @@
 I'm a data scientist in begin of career, i have experience with Python since 2020 and work with it since 2022 as a intern in a Research Center called BRAIN (Brazilian Artificial Inteligence Nucleus) at Facens University.
 
 ---
-<div align="center">
-  <a href="[![Matheus' GitHub stats](https://github-readme-stats.vercel.app/api?username=MTxSouza)](https://github.com/MTxSouza/github-readme-stats)">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MTxSouza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MTxSouza&layout=compact&langs_count=7&theme=dark"/>
-</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="MT-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="MT-Cplusplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">

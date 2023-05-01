@@ -31,6 +31,9 @@
   <li>
     <img align="center" alt="MT-OpenCV" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg">OpenCV
   </li>
+  <li>
+    <img align="center" alt="MT-Qt" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg">"Qt
+  </li>
 </ul>
 
 <h4>Social Midia:</h4>

@@ -1,5 +1,5 @@
 <h1>Matheus Oliveira de Souza</h1>
-<h3 align="center">Data Scientist | Computer Vision Developer | Python Developer</h3>
+<h3 align="center">AI Developer</h3>
 
 ---
 <h4>Skills:</h4>

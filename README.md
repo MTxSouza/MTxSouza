@@ -1,7 +1,4 @@
 <h1>Matheus Oliveira de Souza</h1>
-<h3 align="center">AI Developer</h3>
-
----
 <h4>Skills:</h4>
 <ul>
   <li>

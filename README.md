@@ -19,18 +19,6 @@
   <li>
     <img align="center" alt="MT-Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg">Ubuntu
   </li>
-  <li>
-    <img align="center" alt="MT-Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">Numpy
-  </li>
-  <li>
-    <img align="center" alt="MT-Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">Pandas
-  </li>
-  <li>
-    <img align="center" alt="MT-OpenCV" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg">OpenCV
-  </li>
-  <li>
-    <img align="center" alt="MT-Qt" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg">"Qt
-  </li>
 </ul>
 
 ---

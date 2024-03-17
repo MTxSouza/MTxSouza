@@ -1,5 +1,4 @@
 <h1>Matheus Oliveira de Souza</h1>
-<h4>Skills:</h4>
 <ul>
   <li>
     <img align="center" alt="MT-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">Python

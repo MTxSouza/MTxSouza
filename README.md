@@ -1,26 +1,10 @@
-<h1>Matheus Oliveira de Souza</h1>
-<ul>
-  <li>
-    <img align="center" alt="MT-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">Python
-  </li>
-  <li>
-    <img align="center" alt="MT-Pytorch" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg">Pytorch
-  </li>
-  <li>
-    <img align="center" alt="MT-Tensorflow" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">Tensorflow
-  </li>
-  <li>
-    <img align="center" alt="MT-Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">Jupyter-Notebook
-  </li>
-  <li>
-    <img align="center" alt="MT-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">Git
-  </li>
-  <li>
-    <img align="center" alt="MT-Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg">Ubuntu
-  </li>
-</ul>
+# Matheus Oliveira de Souza
+
+*Always studying and developing some IA applications here..*
+
+### Skills:
+
+[![My Skills](https://skillicons.dev/icons?i=python,docker,pytorch,tensorflow,ubuntu,git)](https://skillicons.dev)
 
 ---
-<div>
-  <a href="https://www.linkedin.com/in/matheus-souza-325159209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+<a href="https://www.linkedin.com/in/matheus-souza-325159209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
